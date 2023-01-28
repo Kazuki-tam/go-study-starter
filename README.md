@@ -1,4 +1,4 @@
-# Go lang study starter
+# Go language study starter
 `go-study-starter` is a starter template for studying Go.
 
 ## Features
