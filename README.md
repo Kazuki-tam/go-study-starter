@@ -1,6 +1,13 @@
 # Go language study starter
 `go-study-starter` is a starter template for studying Go.
 
+## Status
+
+[![Release (latest by date)](https://img.shields.io/github/v/release/Kazuki-tam/go-study-starter)](https://github.com/Kazuki-tam/go-study-starter/releases/tag/v0.0.1)
+[![Issues](https://img.shields.io/github/issues/Kazuki-tam/go-study-starter)](https://github.com/Kazuki-tam/go-study-starter/issues)
+![Maintenance](https://img.shields.io/maintenance/yes/2023)
+![Release date](https://img.shields.io/github/release-date/Kazuki-tam/go-study-starter)
+
 ## Features
 - Develop locally with Go and Docker
 - Out of the box Dockerfile
@@ -37,3 +44,4 @@ docker compose down
 ## Docs
 - [The Go Programming Language](https://go.dev/)
 - [Docker Hub: golang](https://hub.docker.com/_/golang)
+- [Standard Go Project Layout](https://github.com/golang-standards/project-layout/blob/master/README.md)
